@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+# React Weather App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+is a demo app for learning [react and Redux](https://www.udemy.com/react-redux/)?
+
+i worked on it while learning react and redux 
 
 ### Getting Started
 
@@ -10,7 +12,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> git clone https://github.com/abo-elleef/react-weather-app
 > cd ReduxSimpleStarter
 > npm install
 > npm start
